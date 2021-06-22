@@ -14,6 +14,7 @@ The website's color palettes can be easily changed, the website was developed an
 ![enter image description here](https://github.com/ViniSCode/beautysalon-nlw-Rocketseat-dia02/blob/main/ColorChange.gif?raw=true)
 
 we are using the mobile first method to develop the website, so we started making the website adapted for mobile devices, then we will make the website adapted for desktop.
+access the project code [click here](https://github.com/ViniSCode/beautysalon-nlw-Rocketseat-dia02).
 
 if you want to participate in this event that is still happening, here is my invitation:
 [Click here to participate](https://nextlevelweek.com/convite/viniscode/6)
