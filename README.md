@@ -1,4 +1,4 @@
-# beautysalon-nlw-Rocketseat-dia02
+# beautysalon NLW Rocketseat dia 2
 
 
 This project was developed at the Next Level Week event by [**Rocketseat**](http://rocketseat.com.br). In a week we have the challenge of developing an application together.
