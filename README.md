@@ -6,7 +6,9 @@ This project was developed at the Next Level Week event by [**Rocketseat**](http
 The website chosen was **beautysalon**, a flexible website, the beautysalon is a landingpage that can be used as a template for many different projects.
 
 ## Images
-![enter image description here](https://github.com/ViniSCode/beautysalon-nlw-Rocketseat-dia02/blob/main/WebsiteDay2.gif?raw=true)
+![enter image description here](https://github.com/ViniSCode/beautysalon-nlw-Rocketseat-dia02/blob/main/project%20gifs/WebsiteDay2.gif?raw=true)
+
+
 -
 
 The website's color palettes can be easily changed, the website was developed and designed to make this happen intelligently
